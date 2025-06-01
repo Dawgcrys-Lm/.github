@@ -1,6 +1,5 @@
 ## What We Do
 * Cheat Development: We create free cheats for Io and Roblox games.
-* Security Focus: Our cheats are designed with security in mind to prevent detection and maintain user safety.
 
 ## About Us
 Meet the team,
